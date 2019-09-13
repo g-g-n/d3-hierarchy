@@ -200,17 +200,17 @@
    "children": [
     {"name": "Arrays", 
      "children": [
-      {"name": "Blog Name", "value": 9354},
+      {"name": "Blog Name", "value": 9354}
      ]
     },
     {"name": "Colors",
      "children": [
-      {"name": "Blog Name", "value": 9354},
+      {"name": "Blog Name", "value": 9354}
      ]
     },
     {"name": "Dates", 
      "children": [
-      {"name": "Blog Name", "value": 9354},
+      {"name": "Blog Name", "value": 9354}
      ]     
     },
     {"name": "Displays", "value": 12555},
